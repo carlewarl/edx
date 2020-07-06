@@ -4,7 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         echo 'build demo-app'
-        sh 'bat run_build_script.bat'
+        bat 'run_build_script.bat'
       }
     }
 
