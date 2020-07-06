@@ -1,2 +1,2 @@
 @echo on
-build stage
+echo build stage
