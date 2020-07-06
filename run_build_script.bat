@@ -1,1 +1,1 @@
-sleep 2
+@echo on
